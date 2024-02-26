@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+/* Navbar */
+.navbar{
+    margin: 2% 0% 2%;
+}
+.flex{
+    display: flex;
+}
+.nav-logo{
+    width: 140px;
+    margin-left:46%;
+}
+.user-action{
+    display: flex;
+    margin-left: 25%;
+    justify-content: space-between;
+    width: 235px;
+}
+.login{
+    display: flex;
+    align-self: center;
+}
+.signup{
+    display: flex;
+    align-self: center;
+}
+.login-btn{
+    border: none;
+    background-color: transparent;
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+.signup-btn{
+    border: none;
+    background-color: #282828;
+    color: #F8F7F4;
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    border-radius: 12px;
+    width: 115px;
+    height: 45px;
+}
+
+/* Homepage */
+.home-parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+}
+
+.home-body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo{
+    width: 60px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.website-name{
+    width: 300px;
+}
+
+.tagline{
+    width: 800px;
+    font-family: "Inter", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: #282828;
+}
+
+.enter{
+    width: 210px;
+    height: 65px;
+    font-size: 25px;
+    border-radius: 22px;
+    border: none;
+    cursor: pointer;
+    background-color: #282828;
+    color: #F4F7F9;
+    overflow: hidden;
+}
+
+
+/* Mainpage */
+.container{ 
+    flex-direction: column;
+    margin-top: 2%;
+}
+.Suggestions{
+    display: flex;
+    height: 25px;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+#sgst{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+#sgst-btn{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    margin-left: 20px;
+    outline: 1px solid #4D4D4B;
+    border-radius: 100px;
+    padding: 0 0.5% 0;
+}
+
+.filters{
+    display: flex;
+    height: 1%;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 5% 4% 5%;
+}
+
+#filter-btn{
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    border: none;
+    background-color: transparent;
+    border-radius: 50px;
+    height: 35px;
+    padding: 0 1% 0;
+    transition: background-color 0.1s;
+    cursor: pointer;
+}
+
+#filter-btn:hover{
+    background-color: #EFDFB1;
+}
+
+.meme-container{
+    /* background-color: red; */
+    display: grid;
+    margin: 9% 23% 9% ;
+    place-content: center;
+    grid-template-columns: repeat(4, 4fr);
+    grid-column-gap: 7%;
+    grid-row-gap: 5%;
+}
+.meme-card {
+    display: grid;
+    width: 300px;
+    height: 340px;
+    background-color: white;
+    border-radius: 18px;
+    outline: 1.5px solid #4D4D4B;
+    /* box-shadow: 0px 0px 10px rgba(0,0,0,0.1); */
+    overflow: hidden;
+
+}
+
+.layer-1{
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    transition: filter 0.1s ease-in-out;
+
+}
+.layer-1 img{
+    width: 100%;
+    height: 100%;
+    animation: filter 1s ease-in-out;
+    cursor: pointer;
+}
+
+.layer-1:hover{
+    filter: blur(1px) brightness(50%);
+}
+.details-1{
+    padding-left: 20px;
+    z-index: 3;
+    margin-top: 230px;
+    position: absolute;
+}
+
+.username, .title{
+    font-family: "Inter", sans-serif;
+    color: #fff;
+}
+.username{
+    font-weight: 500;
+    font-size: 18px;
+}
+.title{
+    font-weight: 400;
+    font-size: 13px;
+}

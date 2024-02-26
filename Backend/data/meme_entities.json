@@ -1,0 +1,123 @@
+[
+    {
+    "memeId": 1,
+    "memeTitle": "Friends are worse",
+    "image": "https://i.pinimg.com/originals/5f/41/03/5f4103dc46c5789613954854bfe2f903.jpg",
+    "likes": 50,
+    "comments": [
+        { "user": "Parth", "comment": "🤣" },
+        { "user": "Aayush", "comment": "Relatable!" },
+        { "user": "Shreyas", "comment": "Put more memes like this!" }
+    ],
+    "tags": "Pop culture",
+    "user": "subham243"
+    },
+    {
+    "memeId": 2,
+    "memeTitle": "SpongeBob Logic",
+    "image": "https://i.chzbgr.com/full/9670711552/h2A0315F1/animal-encanto-abilities-be-like-fuutuuure",
+    "likes": 75,
+    "comments": [
+        { "user": "Sandy", "comment": "Haha, classic SpongeBob!" },
+        { "user": "Patrick", "comment": "I don't get it..." }
+    ],
+    "tags": "Pop culture",
+    "user": "nexalus243"
+    },
+    {
+    "memeId": 3,
+    "memeTitle": "Cat Nap",
+    "image": "https://media.tenor.com/7p93DpuYyQ4AAAAM/nap-cat.gifhttps://media.tenor.com/7p93DpuYyQ4AAAAM/nap-cat.gif",
+    "likes": 90,
+    "comments": [
+        { "user": "CatLover123", "comment": "Aww, so cute!" },
+        { "user": "DogPerson456", "comment": "Why can't dogs sleep this peacefully?" }
+    ],
+    "tags": "Animals and Pets",
+    "user": "nowhere243"
+    },
+    {
+    "memeId": 4,
+    "memeTitle": "Pizza Priorities",
+    "image": "https://cottageinn.com/app/uploads/2020/09/bb677e4e4f28dfa325e34b11a253211a-420x420.jpg",
+    "likes": 120,
+    "comments": [
+        { "user": "PizzaLover", "comment": "Pizza always comes first!" },
+        { "user": "HealthNut", "comment": "But what about salads?" }
+    ],
+    "tags": "Food",
+    "user": "tero243"
+    },
+    {
+    "memeId": 5,
+    "memeTitle": "Tech Support",
+    "image": "https://www.mojohelpdesk.com/blog/wp-content/uploads/beans/images/541dbcb9e685b9bba689e5adeebccc0a-6786bd4.jpg",
+    "likes": 85,
+    "comments": [
+        { "user": "TechGuru", "comment": "This is so accurate!" },
+        { "user": "User123", "comment": "Why is it always like this?" }
+    ],
+    "tags": "Technology",
+    "user": "nosir243"
+    },
+    {
+    "memeId": 6,
+    "memeTitle": "Gamer Logic",
+    "image": "https://pbs.twimg.com/media/E-oM7tPWYAALFK3.png",
+    "likes": 110,
+    "comments": [
+        { "user": "GamerGirl", "comment": "Story of my life!" },
+        { "user": "NoobPlayer", "comment": "I don't get it..." }
+    ],
+    "tags": "Gaming",
+    "user": "crossxd243"
+    },
+    {
+    "memeId": 7,
+    "memeTitle": "Texting Fails",
+    "image": "https://i.pinimg.com/736x/10/ee/2c/10ee2c285391cfbc2a51e12b3554d312.jpg",
+    "likes": 95,
+    "comments": [
+        { "user": "LoveBird", "comment": "Story of my relationship!" },
+        { "user": "SingleLife", "comment": "Why can't I relate?" }
+    ],
+    "tags": "Relationships",
+    "user": "repl243"
+    },
+    {
+    "memeId": 8,
+    "memeTitle": "Sports Fail",
+    "image": "https://img.bleacherreport.net/img/slides/photos/003/404/308/soccer-meme-2576_crop_exact.jpg?w=2975&h=2048&q=85",
+    "likes": 80,
+    "comments": [
+        { "user": "SportsFanatic", "comment": "Ouch, that's gotta hurt!" },
+        { "user": "Athlete123", "comment": "Been there, done that..." }
+    ],
+    "tags": "Sports",
+    "user": "morag243"
+    },
+    {
+    "memeId": 9,
+    "memeTitle": "Late for Class",
+    "image": "https://cdn4.sharechat.com/6678b548-8076-4aa5-94d6-121f146fe498-8a97ea56-d38c-44a0-9a35-ca948faacafa_compressed_40.jpg?tenant=sc&referrer=pwa-sharechat-service&f=sed_40.jpg",
+    "likes": 105,
+    "comments": [
+        { "user": "NerdLife", "comment": "Always running late!" },
+        { "user": "TeacherPet", "comment": "I never miss a class!" }
+    ],
+    "tags": "School",
+    "user": "tenz243"
+    },
+    {
+    "memeId": 10,
+    "memeTitle": "Meeting Madness",
+    "image": "https://www.socialtalent.com/wp-content/uploads/2016/11/enhanced-14479-1448718711-1.jpg",
+    "likes": 100,
+    "comments": [
+        { "user": "OfficeWorker", "comment": "Every. Single. Meeting." },
+        { "user": "CEO123", "comment": "Can we make these more productive?" }
+    ],
+    "tags": "Corporate",
+    "user": "patrick"
+    }
+]
